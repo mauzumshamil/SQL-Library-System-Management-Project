@@ -1,4 +1,4 @@
-# Library Management System using SQL Project 
+# Library Management System using Advanced SQL Project 
 
 ## Project Overview
 
